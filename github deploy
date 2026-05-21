@@ -1,0 +1,20 @@
+git remote add origin <your-github-repo-url>
+
+git remote add origin https://github.com/othercamb/codesamples
+
+  1. Download from https://cli.github.com/
+  2. Or install via winget: winget install GitHub.cli
+  3. Then authenticate: gh auth login
+
+
+   browser login
+
+● For web browser login, you'll need to run this yourself since
+  it's interactive. Please type this in your terminal:
+
+  "C:\Users\c00932971\Git\gh-cli\bin\gh.exe" auth login -h
+  github.com -p https -w
+
+  This will open a browser where you can authorize GitHub CLI. Once
+   you've completed the login, let me know and I'll verify the
+  connection and proceed with the code review.
