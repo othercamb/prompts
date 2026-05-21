@@ -1,0 +1,8 @@
+Explore › plan › confirm › code › commit:
+Figure out the root cause for issue #983, then propose a few fixes. Let me choose an approach before you code. ultrathink
+
+Write tests › commit › code › iterate › commit:
+Write tests for @utils/markdown.ts to make sure links render properly (note the tests won't pass yet, since links aren't yet implemented). Then commit. Then update the code to make the tests pass.
+
+Write code › screenshot result › iterate:
+Implement [mock.png]. Then screenshot it with Puppeteer and iterate till it looks like the mock.
