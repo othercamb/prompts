@@ -11,3 +11,21 @@ CLAUDE.md                                Checked i
 CLAUDE.local.md                       Not checked in
 
 (Shortcut: type #)
+
+
+------------------------------------------------------------------
+Pull in context on demand:
+
+~/.claude/commands/foo.md          Type /user:foo
+
+project-root/
+
+.claude/commands/foo.md          Type /project:foo
+
+a/                                              Type @a
+
+commands/foo.md                Type /project:a:foo
+
+CLAUDE.md                            Pulled in on demand
+
+foo.py                                   Type @a/foo.py
