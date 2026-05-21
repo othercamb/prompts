@@ -1,0 +1,13 @@
+Auto-add common bash commands, files, and style conventions to every session:
+
+/<enterprise root>/CLAUDE.md      Shared across all projects
+
+~/.claude/CLAUDE.md                   Shared across all projects
+
+project-root/
+
+CLAUDE.md                                Checked in
+
+CLAUDE.local.md                       Not checked in
+
+(Shortcut: type #)
