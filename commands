@@ -1,0 +1,2 @@
+claude -c          # retoma la última sesión
+claude -r          # picker de sesiones anteriores
