@@ -1,0 +1,8 @@
+add to the code comments explaining the code itself
+create a c code example for count pair numbers in a range
+Propose a few fixes for issue #8732, then implement the one I pick
+Identify edge cases that are not covered in @app/tests/signupTest.ts, then update the test to cover these. think hard
+use this repo to work https://github.com/othercamb/codesamples
+execute a workflow executing in parallel all agents required to do a code review
+commit, push, pr
+Use 3 parallel agents to brainstorm ideas for how to clean up @services/aggregator/feed_service.cpp
