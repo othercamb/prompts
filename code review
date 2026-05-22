@@ -14,6 +14,8 @@ Identify edge cases that are not covered in @app/tests/signupTest.ts, then updat
 
 use this repo to work https://github.com/othercamb/codesamples
 
+/feature-dev
+
 execute a workflow executing in parallel all agents required to do a code review
 
 push that CLAUDE.md in the https://github.com/othercamb/codesamples repo
@@ -21,3 +23,7 @@ push that CLAUDE.md in the https://github.com/othercamb/codesamples repo
 commit, push, pr
 
 Use 3 parallel agents to brainstorm ideas for how to clean up @services/aggregator/feed_service.cpp
+
+
+
+
